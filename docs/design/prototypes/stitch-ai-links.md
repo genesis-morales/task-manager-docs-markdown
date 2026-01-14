@@ -2,14 +2,12 @@
 
 **Platform**: Stitch AI (Google)  
 **Status**: ✅ Active  
-**Last Updated**: November 25, 2025
+**Last Updated**: January 14, 2026
 
 ## Prototype Links
 
 ### Main Prototype
-- **URL**: [Add your Stitch AI link here]
-- **Password**: [If applicable]
-- **Access**: Team members only
+- **URL**: [https://stitch.withgoogle.com/projects/2537839825081454047]
 
 ## Completed Screens
 
@@ -66,13 +64,6 @@
 - Dashboard view complete
 - UI Kit documentation
 - Epic 0 foundation established
-
-## Notes
-
-- All designs follow WCAG 2.1 AA accessibility standards
-- Dark theme is primary (light theme planned for future)
-- Built on Ant Design component library
-- Interactive elements demonstrate actual behavior
 
 ## Related Documentation
 

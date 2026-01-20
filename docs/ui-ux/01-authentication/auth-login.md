@@ -5,7 +5,7 @@ Stitch AI designs:
 - Error and loading states
 
 #### Login Valid view (Desktop)
- ![Login (Desktop)](images/login-valid.png)
+ ![Login (Desktop)](/docs/ui-ux/prototypes/images/login-valid.png)
 
  #### Login Invalid view (Desktop)
- ![Login (Desktop)](images/login-desktop.png)
+ ![Login (Desktop)](/docs/ui-ux/prototypes/images/login-desktop.png)

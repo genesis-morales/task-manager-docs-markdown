@@ -5,7 +5,7 @@ Stitch AI designs:
 - Error and success states
 
 #### Register view (Desktop)
- ![Register view (Desktop)](images/register-desktop.png)
+ ![Register view (Desktop)](/docs/ui-ux/prototypes/images/register-desktop.png)
 
 #### Register view (Mobile)
- ![Register view (Mobile)](images/register-mobile.png)
+ ![Register view (Mobile)](/docs/ui-ux/prototypes/images/register-mobile.png)

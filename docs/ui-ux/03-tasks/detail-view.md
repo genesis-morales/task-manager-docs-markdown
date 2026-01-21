@@ -12,4 +12,4 @@
 ![Task Detail](/docs/ui-ux/prototypes/images/task-detail.png)
 
 #### Task Delete Confirmation
-![Task Delete Modal](/docs/ui-ux/prototypes/images/task-delete-modal.png)
+![Task Delete Confirmation](/docs/ui-ux/prototypes/images/task-delete-modal.png)
